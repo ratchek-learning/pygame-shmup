@@ -1,0 +1,8 @@
+# VIM temporary files
+*.swp
+
+# Python generated
+__pycache__
+
+# Poetry files
+pyproject.toml
